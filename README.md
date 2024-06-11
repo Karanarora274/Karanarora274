@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Karan Arora, a finance enthusiast and data-driven person passionate about leveraging technology for insightful financial and customer satisfaction analysis.
+# 👋 Hello! I'm Karan Arora, a finance enthusiast and data-driven professional passionate about leveraging technology for insightful financial and customer satisfaction analysis.
 
 📊 Specializing in data analysis, I thrive on extracting meaningful insights from complex financial and customer experience analysis.
 
