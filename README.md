@@ -1,12 +1,10 @@
-# 👋 Hello! I'm Karan Arora, a finance enthusiast and data-driven professional passionate about leveraging technology for insightful financial and customer satisfaction analysis.
+# 👋 Hello! I'm Karan Arora, a finance enthusiast and data-driven professional passionate about leveraging technology for insightful analysis.
 
 📊 Specializing in data analysis, I thrive on extracting meaningful insights from complex financial and customer experience analysis.
 
-💼 With a background in Python, and SQL, I bring a unique blend of quantitative expertise and coding skills to the table.
+💼 With a background in Python, SQL, R and Tableau I bring a unique blend of quantitative expertise and coding skills to the table.
 
-📈 Whether it's building robust forecasting models, designing data driven strategies, or conducting in-depth risk assessments, I'm dedicated to delivering solutions that drive informed decision-making in the financial realm.
-
-🌐 You can often find me exploring financial data sets.
+🌐 You can often find me exploring data sets.
 
 💡 Constantly learning and adapting to the dynamic landscape of finance and technology, I'm committed to staying ahead of the curve and embracing innovative approaches to financial analysis.
 
