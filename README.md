@@ -6,7 +6,7 @@
 
 🌐 You can often find me exploring data sets.
 
-💡 Constantly learning and adapting to the dynamic landscape of finance and technology, I'm committed to staying ahead of the curve and embracing innovative approaches to financial analysis.
+💡 Constantly learning and adapting to the dynamic landscape of finance and technology.
 
 ### 🌟 Personal Projects
 - [**R + Tableau:** Bellabeat Fitness Case Study](https://github.com/Karanarora274/Bellebeat-Fitness)
