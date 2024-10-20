@@ -10,7 +10,7 @@
 
 ### 🌟 Personal Projects
 - [**R + Tableau:** Bellabeat Fitness Case Study](https://github.com/Karanarora274/Bellebeat-Fitness)
-- [**Google Sheets** Accenture Job Simulation](https://github.com/Karanarora274/Accenture-Data-Analysis-and-Visualisation)
+- [**Google Sheets:** Accenture Job Simulation](https://github.com/Karanarora274/Accenture-Data-Analysis-and-Visualisation)
 
 📫 Let's connect and explore the exciting world of financial analysis together! Feel free to reach out via email at Karan.aro2001@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/karan-arora274/.
 
