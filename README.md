@@ -10,7 +10,7 @@
 
 ### 🌟 Personal Projects
 - [**R + Tableau:** Bellabeat Fitness Case Study](https://github.com/Karanarora274/Bellebeat-Fitness)
-- [**PostgreSQL + Tabeau:** Airbnb Listings Case Study](https://github.com/Karanarora274/Airbnb-NYC-Case-Study)
+- [**PostgreSQL + Tableau:** Airbnb Listings Case Study](https://github.com/Karanarora274/Airbnb-NYC-Case-Study)
 - [**Google Sheets:** Accenture Job Simulation](https://github.com/Karanarora274/Accenture-Data-Analysis-and-Visualisation)
 - [**Python + Tableau:** Tata Job Simulation](https://github.com/Karanarora274/Tata-Data-Analysis-and-Visualisation) 
 
