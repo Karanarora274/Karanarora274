@@ -1,21 +1,29 @@
-# 👋 Hello! I'm Karan Arora, a finance enthusiast and data-driven professional passionate about leveraging technology for insightful analysis.
+# 👋 Hello! I’m Karan Arora
 
-📊 Specializing in data analysis, I thrive on extracting meaningful insights from data analysis.
+Support Team Lead at [Revolut](https://www.revolut.com)￼ with experience in fintech operations, customer escalations, incident management, and workflow-driven support environments.
 
-💼 With a background in Python, SQL, R and Tableau I bring a unique blend of quantitative expertise and coding skills to the table.
+Currently exploring API testing, workflow automation, and support engineering through hands-on projects using Postman, REST APIs, SQL, Python, and GitHub.
 
-🌐 You can often find me exploring data sets.
+### 🛠️ Tech & Tools
 
-💡 Constantly learning and adapting to the dynamic landscape of finance and technology.
+* Postman
+* REST APIs
+* SQL
+* Python
+* Tableau
+* GitHub
 
-### 🌟 Personal Projects
-- [**R + Tableau:** Bellabeat Fitness Case Study](https://github.com/Karanarora274/Bellebeat-Fitness)
-- [**PostgreSQL + Tableau:** Airbnb Listings Case Study](https://github.com/Karanarora274/Airbnb-NYC-Case-Study)
-- [**Google Sheets:** Accenture Job Simulation](https://github.com/Karanarora274/Accenture-Data-Analysis-and-Visualisation)
-- [**Python + Tableau:** Tata Job Simulation](https://github.com/Karanarora274/Tata-Data-Analysis-and-Visualisation) 
+### 🌟 Featured Projects
 
-📫 Let's connect and explore the exciting world of analysis together! Feel free to reach out via email at Karan.aro2001@gmail.com or connect with me on LinkedIn www.linkedin.com/in/karana1.
+* [Trello Incident Workflow API Automation](https://github.com/Karanarora274/trello-incident-management-api-automation)
+* [Bellabeat Fitness Case Study](https://github.com/Karanarora274/Bellebeat-Fitness)
+* [Airbnb NYC Data Analysis Case Study](https://github.com/Karanarora274/Airbnb-NYC-Case-Study)
 
-Excited to collaborate! ✨
+### 🌱 Currently Learning
 
+API Automation • REST Assured • Workflow Automation • AI for Operations
 
+### 📫 Connect With Me
+
+* LinkedIn: www.linkedin.com/in/karana1
+* Email: Karan.aro2001@gmail.com
