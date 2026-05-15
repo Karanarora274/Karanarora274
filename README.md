@@ -16,8 +16,8 @@ Currently exploring API testing, workflow automation, and support engineering th
 ### 🌟 Featured Projects
 
 * [Trello Incident Workflow API Automation](https://github.com/Karanarora274/trello-incident-management-api-automation)
-* [Bellabeat Fitness Case Study](https://github.com/Karanarora274/Bellebeat-Fitness)
-* [Airbnb NYC Data Analysis Case Study](https://github.com/Karanarora274/Airbnb-NYC-Case-Study)
+* [Bellabeat Fitness Case Study(SQL+Tableau)](https://github.com/Karanarora274/Bellebeat-Fitness)
+* [Airbnb NYC Data Analysis Case Study(SQL+Python)](https://github.com/Karanarora274/Airbnb-NYC-Case-Study)
 
 ### 🌱 Currently Learning
 
